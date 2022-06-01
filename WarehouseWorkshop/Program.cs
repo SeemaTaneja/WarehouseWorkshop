@@ -1,5 +1,5 @@
 ﻿using System;
-namespace WarehouseWorkshop
+namespace WarehouseWorkshop.Transactions
 {
     class Program
     {
@@ -25,6 +25,25 @@ namespace WarehouseWorkshop
             {
                 Console.WriteLine($"There are {warehouse.ItemsInStock[item]} of item \"{item.Name}\" at £{item.Price} each");
             }
+            Account seema = new Account(100);
+            Account Account = new Account(150);
+            warehouse.SellItems
+            (
+                new Dictionary<Item, int>
+                {
+                    {orange , 5},
+                    {color , 10},
+                },
+                seema,
+                "cash"
+            );
+            Console.WriteLine("Stock after purchase :");
+            foreach (Item item in warehouse.ItemsInStock.Keys)
+            {
+                Console.WriteLine($"There are {warehouse.ItemsInStock[item]} of item \"{item.Name}\" at £{item.Price} each");
+            }
+            Console.WriteLine($"Seema now has £{seema.Amount}");
+            Console.WriteLine($"Account now has £{Account.Amount}");
         }
     }
 }
