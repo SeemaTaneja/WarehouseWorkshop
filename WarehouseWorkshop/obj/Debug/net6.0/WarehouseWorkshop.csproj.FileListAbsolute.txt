@@ -1,0 +1,15 @@
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.csproj.AssemblyReference.cache
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.AssemblyInfoInputs.cache
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.AssemblyInfo.cs
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.csproj.CoreCompileInputs.cache
+C:\Training\warehouse-workshop\WarehouseWorkshop\bin\Debug\net6.0\WarehouseWorkshop.exe
+C:\Training\warehouse-workshop\WarehouseWorkshop\bin\Debug\net6.0\WarehouseWorkshop.deps.json
+C:\Training\warehouse-workshop\WarehouseWorkshop\bin\Debug\net6.0\WarehouseWorkshop.runtimeconfig.json
+C:\Training\warehouse-workshop\WarehouseWorkshop\bin\Debug\net6.0\WarehouseWorkshop.dll
+C:\Training\warehouse-workshop\WarehouseWorkshop\bin\Debug\net6.0\WarehouseWorkshop.pdb
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.dll
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\refint\WarehouseWorkshop.dll
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.pdb
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\WarehouseWorkshop.genruntimeconfig.cache
+C:\Training\warehouse-workshop\WarehouseWorkshop\obj\Debug\net6.0\ref\WarehouseWorkshop.dll
